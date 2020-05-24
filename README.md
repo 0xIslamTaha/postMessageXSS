@@ -17,7 +17,7 @@
 - [postMessage XSS whitepaper](https://docs.ioin.in/writeup/www.exploit-db.com/_docs_40287_pdf/index.pdf)
 
 ##  📹 Talks 📹 :
--  (Attacking Modern Web Technologies - Frans Rosen)[https://www.youtube.com/watch?v=oJCCOnF25JU]
+-  [Attacking Modern Web Technologies - Frans Rosen](https://www.youtube.com/watch?v=oJCCOnF25JU)
 
 ## 🎩 Plugins 🎩 : 
 
