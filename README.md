@@ -2,7 +2,7 @@
 
  🥳 🥳 A Collection of postMessage XSS resources 🥳 🥳 
 
-## 🕶 🕶 Write Up:
+## 🕶 Write Up 🕶 :
 
 - [postMessage issues](https://github.com/EdOverflow/bugbountywiki/wiki/postMessage-issues)
 - [The Mystery of postMessage](https://ngailong.wordpress.com/2018/02/13/the-mystery-of-postmessage/)
@@ -16,7 +16,10 @@
 
 - [postMessage XSS whitepaper](https://docs.ioin.in/writeup/www.exploit-db.com/_docs_40287_pdf/index.pdf)
 
-## 🎩 🎩 Plugins: 
+##  📹 Talks 📹 :
+-  (Attacking Modern Web Technologies - Frans Rosen)[https://www.youtube.com/watch?v=oJCCOnF25JU]
+
+## 🎩 Plugins 🎩 : 
 
 - [iframe-broker](https://github.com/vinothsparrow/iframe-broker)
 - [postMessage-tracker](https://github.com/fransr/postMessage-tracker/tree/master/chrome)
