@@ -14,7 +14,9 @@
 - [$20000 Facebook DOM XSS
 ](https://vinothkumar.me/20000-facebook-dom-xss/#fn:1)
 
+## Papers :
 - [postMessage XSS whitepaper](https://docs.ioin.in/writeup/www.exploit-db.com/_docs_40287_pdf/index.pdf)
+- [Privacy Breach by Exploiting postMessage in HTML5:﻿Identification, Evaluation, and Countermeasure](https://csis.gmu.edu/ksun/publications/postmessage-asiaccs16.pdf)
 
 ##  📹 Talks 📹 :
 -  [Attacking Modern Web Technologies - Frans Rosen](https://www.youtube.com/watch?v=oJCCOnF25JU)
