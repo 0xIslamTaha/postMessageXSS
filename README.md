@@ -13,7 +13,7 @@
 - [Exploiting post message to steal and replace user’s cookies](https://medium.com/bugbountywriteup/exploiting-post-message-to-steal-users-cookies-7df43a00289a)
 - [$20000 Facebook DOM XSS
 ](https://vinothkumar.me/20000-facebook-dom-xss/#fn:1)
-- [https://www.hahwul.com/2020/05/vulnerability-of-postmessage.html](https://www.hahwul.com/2020/05/vulnerability-of-postmessage.html)
+- [vulnerability-of-postmessage](https://www.hahwul.com/2020/05/vulnerability-of-postmessage.html)
 
 
 ## Papers :
